@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐝I am a developer who completed the technical course in Informatics at the Federal Institute of Sergipe (IFS) in 2023. Currently, I am studying HTML, CSS, and JavaScript, enhancing my knowledge in web development. Additionally, I am pursuing a degree in Graphic Design at the Federal University of Sergipe (UFS), aiming to expand my expertise in UI Design. I am interested in exploring other languages such as Python to broaden my skill set. I am open to new job opportunities and challenging projects that allow me to grow professionally. If you are interested in collaborating or discussing ideas, please feel free to reach out to me through my GitHub or LinkedIn profiles.<br><br>
+🐝Luiz Albuquerque
 
 
 ## 🌐 Socials:
